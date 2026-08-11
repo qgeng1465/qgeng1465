@@ -44,6 +44,13 @@
 
 ### 🛠️ Open Source & Tools
 
+**⭐ Featured** · <sub>重点推荐</sub>
+
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server
+  <sub>生物信息学 MCP 服务器</sub>
+- ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — 3D visualization of flight footprints
+  <sub>飞行足迹 3D 地球可视化 · ⭐ 最多的项目</sub>
+
 **🤖 AI Agents** — 45+ ready-to-use, free & open source
 <sub>即装即用的智能体合集，全部免费开源</sub>
 
@@ -64,9 +71,7 @@
 
 **🎬 Media & Visualization** · <sub>媒体与可视化</sub>
 
-✈️ [Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer) · 🎞️ [TS → MP4](https://github.com/qgeng1465/ts-to-mp4-converter) · 🎥 [MP4 Converter](https://github.com/qgeng1465/mp4-converter) · 🎧 [Audio Toolbox](https://github.com/qgeng1465/audio-toolbox) · 🔴 [LiveRecorder](https://github.com/qgeng1465/LiveRecorder)
-
-**🧬 [BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · <sub>生物信息学 MCP 服务器</sub>
+🎞️ [TS → MP4](https://github.com/qgeng1465/ts-to-mp4-converter) · 🎥 [MP4 Converter](https://github.com/qgeng1465/mp4-converter) · 🎧 [Audio Toolbox](https://github.com/qgeng1465/audio-toolbox) · 🔴 [LiveRecorder](https://github.com/qgeng1465/LiveRecorder)
 
 ---
 
