@@ -8,8 +8,8 @@
 > **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
 > <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
 >
-> **Independent maker · 20+ free open-source projects · 45 ready-to-use AI agents**
-> <sub>独立开发者 · 20+ 免费开源项目 · 45 个即装即用 AI 智能体</sub>
+> **Independent open-source developer · 45 ready-to-use AI agents**
+> <sub>独立开源开发者 · 45 个即装即用 AI 智能体</sub>
 
 </div>
 
@@ -21,10 +21,10 @@
   <sub>大模型智能体 · MCP 服务器 · 提示工程</sub>
 - **Bioinformatics** — NCBI · BLAST · PDB · UniProt · Enrichment Analysis
   <sub>生物信息学 · NCBI · BLAST · PDB · UniProt · 富集分析</sub>
-- **Python & Tools** — Python · FFmpeg · yt-dlp · Web Scraping
-  <sub>Python · FFmpeg · 网页抓取 · 流媒体下载</sub>
-- **Web & Visualization** — WebGL · 3D Data Viz · ffmpeg.wasm · In-browser Processing
-  <sub>WebGL · 3D 可视化 · 浏览器端图像/视频处理</sub>
+- **Python & Data** — Python · Web Scraping · Data Processing
+  <sub>Python · 网页抓取 · 数据处理</sub>
+- **Visualization & Frontend** — WebGL · 3D Visualization
+  <sub>WebGL · 3D 可视化 · 前端</sub>
 - **Research** — Microfluidics · Organoids-on-Chip · AI for Science
   <sub>微流控 · 类器官芯片 · AI for Science</sub>
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 📦 Open Source & Tools
+### 📦 Open Source Projects
 
 **⭐ Featured** · <sub>重点推荐</sub>
 
@@ -67,37 +67,12 @@
   <sub>飞行足迹 3D 地球可视化 · WebGL · 纯本地隐私友好</sub>
 
 **🤖 AI Agents** — 45 ready-to-use, free & open source
-<sub>即装即用的智能体合集，全部免费开源</sub>
+<sub>即装即用的智能体合集，覆盖生物信息 / 化学 / 科研 / 日常生活，全部免费开源</sub>
 
 - 🧬 [ai4bio-agents](https://github.com/qgeng1465/ai4bio-agents) — bioinformatics: PubMed, NCBI, BLAST, protein, CRISPR
 - ⚗️ [ai4chem-agents](https://github.com/qgeng1465/ai4chem-agents) — computational chemistry: RDKit, docking, NMR, SMILES
 - 🔬 [ai4research-agents](https://github.com/qgeng1465/ai4research-agents) — research workflow: papers, proposals, slides
 - 🌱 [daily-agents](https://github.com/qgeng1465/daily-agents) — everyday life: copywriting, reports, resumes
-
-**🖥️ Browser Tools** — everything runs in your browser, nothing is uploaded
-<sub>浏览器本地运行，文件不会上传</sub>
-
-- 📄 [PDF Toolbox](https://github.com/qgeng1465/pdf-toolbox) — merge / split / rotate / compress
-- 🪪 [ID Photo Maker](https://github.com/qgeng1465/id-photo-maker) — background recolor & print-ready layouts
-- 🖼️ [Image Toolbox](https://github.com/qgeng1465/image-toolbox) — batch compress / resize / watermark
-- 📚 [GB/T 7714 Formatter](https://github.com/qgeng1465/gbt7714-formatter) — 8 citation types, auto-format
-- 😂 [Emoji Maker](https://github.com/qgeng1465/emoji-maker) — multi-frame GIF stickers
-
-**⬇️ Downloaders** — local Python tools
-<sub>本地 Python 下载工具</sub>
-
-- 🎵 [Douyin](https://github.com/qgeng1465/douyin-watermark-free-downloader) — watermark-free videos & images, batch
-- 📺 [Bilibili](https://github.com/qgeng1465/bilibili-video-downloader) — multi-part / subtitles / danmaku / covers
-- ▶️ [YouTube](https://github.com/qgeng1465/youtube-downloader) — yt-dlp wrapper, proxy-adaptive, CLI + GUI
-- 🔴 [Xiaohongshu](https://github.com/qgeng1465/xiaohongshu-downloader) — cookie-based parse, short links, batch
-- 📄 [WeChat Articles](https://github.com/qgeng1465/wechat-article-exporter) — export to Markdown/HTML, localize images
-
-**🎬 Media & Visualization** · <sub>媒体与可视化</sub>
-
-- 🎞️ [TS → MP4](https://github.com/qgeng1465/ts-to-mp4-converter) — lossless remux, ffmpeg.wasm in-browser
-- 🎥 [MP4 Converter](https://github.com/qgeng1465/mp4-converter) — universal video→MP4, WASM, offline
-- 🎧 [Audio Toolbox](https://github.com/qgeng1465/audio-toolbox) — video-to-audio · trim · vocal removal
-- 🔴 [LiveRecorder](https://github.com/qgeng1465/LiveRecorder) — FFmpeg recorder for 50+ live platforms
 
 ---
 
