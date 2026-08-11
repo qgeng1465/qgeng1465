@@ -60,8 +60,8 @@
 
 **⭐ Featured** · <sub>重点推荐</sub>
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **19 bio-databases · 33 tools**
-  <sub>生物信息学 MCP 服务器 · 19 个生物数据库 · 33 个工具</sub>
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **26 bio-databases · 40 tools**
+  <sub>生物信息学 MCP 服务器 · 26 个生物数据库 · 40 个工具</sub>
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — your flight logbook on a WebGL 3D globe, 100% local & private
   <sub>飞行足迹 3D 地球可视化 · WebGL · 纯本地隐私友好</sub>
 
