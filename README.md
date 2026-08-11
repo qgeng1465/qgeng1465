@@ -17,7 +17,7 @@
 
 ### 🎓 Education
 
-- <img src="logos/tsinghua.png" height="14"/> **PhD Candidate in Biomedical Engineering** · [Tsinghua University](https://www.tsinghua.edu.cn/)
+- <img src="logos/tsinghua.png" height="14"/> **PhD Student in Biomedical Engineering** · [Tsinghua University](https://www.tsinghua.edu.cn/)
   <sub>清华大学 · 生物医学工程 博士在读</sub>
 
 - <img src="logos/syphu.png" height="14"/> **B.Sc.** · [Shenyang Pharmaceutical University](https://www.syphu.edu.cn/)
@@ -49,7 +49,7 @@
 - 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server
   <sub>生物信息学 MCP 服务器</sub>
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — 3D visualization of flight footprints
-  <sub>飞行足迹 3D 地球可视化 · ⭐ 最多的项目</sub>
+  <sub>飞行足迹 3D 地球可视化</sub>
 
 **🤖 AI Agents** — 45+ ready-to-use, free & open source
 <sub>即装即用的智能体合集，全部免费开源</sub>
