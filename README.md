@@ -7,9 +7,7 @@
 
 > **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
 > <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
->
-> **Independent open-source developer · 45 ready-to-use AI agents**
-> <sub>独立开源开发者 · 45 个即装即用 AI 智能体</sub>
+
 
 </div>
 
@@ -17,6 +15,8 @@
 
 ### 🔧 Tech Stack
 
+- **Research** — Microfluidics · Organoids-on-Chip · AI for Science
+  <sub>微流控 · 类器官芯片 · AI for Science</sub>
 - **AI & Agents** — LLM Agents · MCP Servers · Prompt Engineering
   <sub>大模型智能体 · MCP 服务器 · 提示工程</sub>
 - **Bioinformatics** — NCBI · BLAST · PDB · UniProt · Enrichment Analysis
@@ -24,10 +24,7 @@
 - **Python & Data** — Python · Web Scraping · Data Processing
   <sub>Python · 网页抓取 · 数据处理</sub>
 - **Visualization & Frontend** — WebGL · 3D Visualization
-  <sub>WebGL · 3D 可视化 · 前端</sub>
-- **Research** — Microfluidics · Organoids-on-Chip · AI for Science
-  <sub>微流控 · 类器官芯片 · AI for Science</sub>
-
+  <sub>WebGL · 3D 可视化 </sub>
 ---
 
 ### 🎓 Education
@@ -42,16 +39,16 @@
 
 ### 💼 Experience
 
-- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** (Beijing National Engineering Research Center for Biochip Technology) — Intern · `2025.12 – 2031.6`
+- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** (Beijing National Engineering Research Center for Biochip Technology) — Intern · `2025.12 – 2031.6`</sub>
   <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习</sub>
 
-- <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`
+- <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`</sub>
   <sub>上海硅致智能 · 医学事务部 实习生</sub>
 
-- <img src="logos/nkdpharm.png" height="14"/> **Beijing Nuokangda Pharmaceutical** — AI Algorithm Intern · AI Automation Dept · `2025.10 – 2025.12`
+- <img src="logos/nkdpharm.png" height="14"/> **Beijing Nuokangda Pharmaceutical** — AI Algorithm Intern · AI Automation Dept · `2025.10 – 2025.12`</sub>
   <sub>北京诺康达医药科技股份有限公司 · AI 自动化设备部 · 算力算法实习生</sub>
 
-- <img src="logos/cicams.png" height="14"/> **Cancer Hospital, Chinese Academy of Medical Sciences (National Cancer Center)** — Research Intern · `2022.10 – 2026.04`
+- <img src="logos/cicams.png" height="14"/> **Cancer Hospital, Chinese Academy of Medical Sciences (National Cancer Center)** — Research Intern · `2022.10 – 2026.04`</sub>
   <sub>中国医学科学院肿瘤医院（国家癌症中心）· 科研实习</sub>
 
 ---
