@@ -5,10 +5,10 @@
 **PhD Student in Biomedical Engineering @ [Tsinghua University](https://www.tsinghua.edu.cn/)**
 <sub>清华大学 · 生物医学工程 博士在读</sub>
 
-> 🧬 **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
+> **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
 > <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
 >
-> 🛠️ **Independent maker · 20+ free open-source projects · 45 ready-to-use AI agents**
+> **Independent maker · 20+ free open-source projects · 45 ready-to-use AI agents**
 > <sub>独立开发者 · 20+ 免费开源项目 · 45 个即装即用 AI 智能体</sub>
 
 </div>
@@ -42,9 +42,9 @@
 
 ### 💼 Experience
 
-- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** — Intern / PhD Student
+- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** — Intern
   Beijing National Engineering Research Center for Biochip Technology · `2025.12 – 2031.6`
-  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习 / 博士研究生 · `2025.12 – 2031.6`</sub>
+  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习 · `2025.12 – 2031.6`</sub>
 
 - <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`
   <sub>上海硅致智能 · 医学事务部 实习生</sub>
