@@ -40,16 +40,20 @@
 ### 💼 Experience
 
 - <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** (Beijing National Engineering Research Center for Biochip Technology) — Intern · `2025.12 – 2031.6`</sub>
-  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习</sub>
+  <sub>
+  博奥生物集团（生物芯片北京国家工程研究中心）· 实习</sub>
 
 - <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`</sub>
-  <sub>上海硅致智能 · 医学事务部 实习生</sub>
+  <sub>
+  上海硅致智能 · 医学事务部 实习生</sub>
 
 - <img src="logos/nkdpharm.png" height="14"/> **Beijing Nuokangda Pharmaceutical** — AI Algorithm Intern · AI Automation Dept · `2025.10 – 2025.12`</sub>
-  <sub>北京诺康达医药科技股份有限公司 · AI 自动化设备部 · 算力算法实习生</sub>
+  <sub>
+  北京诺康达医药科技股份有限公司 · AI 自动化设备部 · 算力算法实习生</sub>
 
 - <img src="logos/cicams.png" height="14"/> **Cancer Hospital, Chinese Academy of Medical Sciences (National Cancer Center)** — Research Intern · `2022.10 – 2026.04`</sub>
-  <sub>中国医学科学院肿瘤医院（国家癌症中心）· 科研实习</sub>
+  <sub>
+  中国医学科学院肿瘤医院（国家癌症中心）· 科研实习</sub>
 
 ---
 
