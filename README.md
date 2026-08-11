@@ -88,4 +88,4 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 <p align="center"><sub>Open to research collaborations & part-time opportunities · 欢迎科研合作与实习机会</sub></p>
 
-<p align="center"><sub>MIT Licensed · Built with 💙 · 尊重版权 · 仅供学习研究与个人合理使用</sub></p>
+<p align="center"><sub>MIT Licensed · 尊重版权 · 仅供学习研究与个人合理使用</sub></p>
