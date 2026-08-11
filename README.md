@@ -1,16 +1,15 @@
 <div align="center">
 
-# Hi there 👋 · 你好
+# Hi there 👋 I'm Q
 
-**PhD Student @ [Tsinghua University](https://www.tsinghua.edu.cn/)**
+**PhD Student in Biomedical Engineering @ [Tsinghua University](https://www.tsinghua.edu.cn/)**
 <sub>清华大学 · 生物医学工程 博士在读</sub>
 
-> 🧬 Computational Biomedicine & AI for Healthcare
-> 🛠️ Independent maker of privacy-friendly tools & AI agents
+> 🧬 **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
+> <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
 >
-> <sub>计算生物医学与医疗 AI · 独立开发者，专注隐私友好的工具与智能体</sub>
-
-<code>📍 Beijing, China</code>
+> 🛠️ **Independent maker of privacy-friendly tools & AI agents**
+> <sub>独立开发者，专注隐私友好的工具与智能体</sub>
 
 </div>
 
@@ -18,16 +17,19 @@
 
 ### 🎓 Education
 
-- **PhD Candidate in Biomedical Engineering** · [Tsinghua University](https://www.tsinghua.edu.cn/)
+- <img src="logos/tsinghua.png" height="14"/> **PhD Candidate in Biomedical Engineering** · [Tsinghua University](https://www.tsinghua.edu.cn/)
   <sub>清华大学 · 生物医学工程 博士在读</sub>
+
+- <img src="logos/syphu.png" height="14"/> **B.Sc.** · [Shenyang Pharmaceutical University](https://www.syphu.edu.cn/)
+  <sub>沈阳药科大学 · 本科</sub>
 
 ---
 
 ### 💼 Experience
 
 - <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** — Intern / PhD Student
-  National Engineering Research Center for Beijing Biochip Technology · `2025.12 – present`
-  <sub>博奥生物集团 · 国家生物芯片工程研究中心 · 实习 / 博士研究生 · `2025.12 – 至今`</sub>
+  Beijing National Engineering Research Center for Biochip Technology · `2025.12 – 2031.6`
+  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习 / 博士研究生 · `2025.12 – 2031.6`</sub>
 
 - <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`
   <sub>上海硅致智能 · 医学事务部 实习生</sub>
