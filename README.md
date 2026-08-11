@@ -42,9 +42,8 @@
 
 ### 💼 Experience
 
-- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** — Intern
-  Beijing National Engineering Research Center for Biochip Technology · `2025.12 – 2031.6`
-  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习 · `2025.12 – 2031.6`</sub>
+- <img src="logos/capitalbio.png" height="14"/> **CapitalBio Group** (Beijing National Engineering Research Center for Biochip Technology) — Intern · `2025.12 – 2031.6`
+  <sub>博奥生物集团（生物芯片北京国家工程研究中心）· 实习</sub>
 
 - <img src="logos/siogens.png" height="14"/> **Siogens** — Medical Affairs Intern · `2026.07 – 2026.09`
   <sub>上海硅致智能 · 医学事务部 实习生</sub>
