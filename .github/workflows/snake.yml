@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -6,18 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       
-      - uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: qgeng1465
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # output: github-contribution-grid-snake.svg and github-contribution-grid-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          dark_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
@@ -27,4 +27,4 @@ jobs:
           publish_branch: output
           user_name: qgeng1465
           user_email: qgeng1465@users.noreply.github.com
-          commit_message: "Update snake animation"
+          commit_message: "Update contribution snake animation"
