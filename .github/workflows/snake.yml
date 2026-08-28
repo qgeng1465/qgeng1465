@@ -15,16 +15,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: qgeng1465
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          dark_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          gif_out_path: github-contribution-snake/github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-snake/github-contribution-grid-snake.svg
+          dark_out_path: github-contribution-snake/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          user_name: qgeng1465
-          user_email: qgeng1465@users.noreply.github.com
-          commit_message: "Update contribution snake animation"
+      - name: Commit snake files to main branch
+        run: |
+          git config user.name qgeng1465
+          git config user.email qgeng1465@users.noreply.github.com
+          git add github-contribution-snake/
+          git commit -m "Update snake animation"
+          git push
