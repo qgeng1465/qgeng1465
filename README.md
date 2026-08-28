@@ -57,24 +57,25 @@
 
 ---
 
+## ✨ Contribution Snake
+
+![GitHub contribution grid snake](https://github.com/qgeng1465/qgeng1465/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📦 Open Source Projects
 
 **⭐ Featured** · <sub>重点推荐</sub>
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **26 bio-databases · 40 tools**
-  <sub>生物信息学 MCP 服务器 · 26 个生物数据库 · 40 个工具</sub>
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **36 bio-databases · 68 tools**
+  <sub>生物信息学 MCP 服务器 · 36 个生物数据库 · 68 个工具（智能 agent + 诚实 agent）</sub>
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — your flight logbook on a WebGL 3D globe, 100% local & private
   <sub>飞行足迹 3D 地球可视化 · WebGL · 纯本地隐私友好</sub>
 
-**🤖 AI Agents** — 45 ready-to-use, free & open source
-<sub>即装即用的智能体合集，覆盖生物信息 / 化学 / 科研 / 日常生活，全部免费开源</sub>
+- 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers
+  <sub>可验证湿实验 AI 副驾 · 验证论文协议计算并拒绝虚构数字 · 幻觉率 0.000</sub>
 
-- 🧬 [ai4bio-agents](https://github.com/qgeng1465/ai4bio-agents) — bioinformatics: PubMed, NCBI, BLAST, protein, CRISPR
-- ⚗️ [ai4chem-agents](https://github.com/qgeng1465/ai4chem-agents) — computational chemistry: RDKit, docking, NMR, SMILES
-- 🔬 [ai4research-agents](https://github.com/qgeng1465/ai4research-agents) — research workflow: papers, proposals, slides
-- 🌱 [daily-agents](https://github.com/qgeng1465/daily-agents) — everyday life: copywriting, reports, resumes
 
----
 
 ### ☕ Support / 赞赏
 
@@ -90,3 +91,4 @@ If these tools saved you time, a coffee is always appreciated ☕
 <p align="center"><sub>Open to research collaborations & part-time opportunities · 欢迎科研合作与实习机会</sub></p>
 
 <p align="center"><sub>MIT Licensed · 尊重版权 · 仅供学习研究与个人合理使用</sub></p>
+
