@@ -52,40 +52,6 @@
 
 ---
 
-## ✨ Contribution Snake
-
-![GitHub contribution grid snake](https://github.com/qgeng1465/qgeng1465/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📦 Open Source Projects
-
-**⭐ Featured**
-
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **36 databases · 68 tools** (intelligent agent + honest agent)
-- ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — flight logbook on a WebGL 3D globe, 100% local & private
-- 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers (hallucination rate 0.000)
-
----
-
-### ☕ Support
-
-If these tools saved you time, a coffee is always appreciated ☕
-
-<p align="center">
-  <img src="likes.jpg" width="160" alt="Support QR code"/>
-</p>
-
----
-
-<p align="center"><sub>Open to research collaborations & part-time opportunities</sub></p>
-
-<p align="center"><sub>MIT Licensed · For educational research and personal use only</sub></p>
-
----
-
-<a name="中文版chinese-version"></a>
-
 ## 中文版 Chinese Version
 
 ### 🔧 技术栈
