@@ -2,27 +2,34 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # run daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v2
-      
+      - uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: qgeng1465
-          gif_out_path: github-contribution-snake/github-contribution-grid-snake.gif
-          svg_out_path: github-contribution-snake/github-contribution-grid-snake.svg
-          dark_out_path: github-contribution-snake/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+          outputs: |
+            github-contribution-snake/github-contribution-grid-snake.gif
+            github-contribution-snake/github-contribution-grid-snake.svg
+            github-contribution-snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit snake files to main branch
         run: |
-          git config user.name qgeng1465
-          git config user.email qgeng1465@users.noreply.github.com
+          git config user.name "qgeng1465"
+          git config user.email "qgeng1465@users.noreply.github.com"
           git add github-contribution-snake/
-          git commit -m "Update snake animation"
-          git push
+          git diff --cached --quiet || git commit -m "Update contribution snake animation"
+          git push origin HEAD:main
