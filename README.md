@@ -171,6 +171,11 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 <h3 align="center">🛠️ Skills · 技能</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-45-orange?style=flat-square&logo=github&logoColor=white" alt="Total Stars">
+  <img src="https://img.shields.io/badge/Total%20Forks-5-blue?style=flat-square&logo=github&logoColor=white" alt="Total Forks">
+</p>
+
 <p align="center"><b>AI & Data</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20Agents-6D5AE8?style=flat-square" alt="LLM Agents">
