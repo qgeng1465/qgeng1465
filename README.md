@@ -136,3 +136,42 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 </div>
 
+---
+
+<h3 align="center">🛠️ Skills / 技能</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Agents-6D5AE8?style=flat-square" alt="LLM Agents">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NCBI-00778B?style=flat-square" alt="NCBI">
+  <img src="https://img.shields.io/badge/BLAST-00778B?style=flat-square" alt="BLAST">
+  <img src="https://img.shields.io/badge/PDB-0A9DCB?style=flat-square" alt="PDB">
+  <img src="https://img.shields.io/badge/UniProt-E535AB?style=flat-square&logo=uniprot&logoColor=white" alt="UniProt">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Contribution Snake</h3>
+
+<p align="center">
+  <img src="github-contribution-snake/github-contribution-grid-snake.gif" alt="GitHub contribution snake animation">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="github-contribution-snake/github-contribution-grid-snake.svg">
+</picture>
