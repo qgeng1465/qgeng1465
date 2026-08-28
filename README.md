@@ -8,17 +8,9 @@
 > **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
 > <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
 
+**🌏 [中文版 Chinese Version](#中文版chinese-version) | 🇺🇸 [English Version](#english-version)**
+
 </div>
-
----
-
-<details>
-<summary><b>🌏 Language / 语言</b></summary>
-
-#### [🇨🇳 中文版 Chinese Version](#中文版chinese-version)
-#### [🇺🇸 English Version](#english-version)
-
-</details>
 
 ---
 
@@ -52,6 +44,34 @@
 
 ---
 
+### 📦 Open Source Projects
+
+**⭐ Featured**
+
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **36 databases · 68 tools** (intelligent agent + honest agent)
+- ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — flight logbook on a WebGL 3D globe, 100% local & private
+- 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers (hallucination rate 0.000)
+
+---
+
+### ☕ Support
+
+If these tools saved you time, a coffee is always appreciated ☕
+
+<p align="center">
+  <img src="likes.jpg" width="160" alt="Support QR code"/>
+</p>
+
+---
+
+<p align="center"><sub>Open to research collaborations & part-time opportunities</sub></p>
+
+<p align="center"><sub>MIT Licensed · For educational research and personal use only</sub></p>
+
+---
+
+<a name="中文版chinese-version"></a>
+
 ## 中文版 Chinese Version
 
 ### 🔧 技术栈
@@ -77,12 +97,6 @@
 - <img src="logos/siogens.png" height="14"/> **上海硅致智能** · 医学事务部 实习生 · `2026.07 – 2026.09`
 - <img src="logos/nkdpharm.png" height="14"/> **北京诺康达医药科技股份有限公司** · AI 自动化设备部 · 算法算法实习生 · `2025.10 – 2025.12`
 - <img src="logos/cicams.png" height="14"/> **中国医学科学院肿瘤医院（国家癌症中心）** · 科研实习 · `2022.10 – 2026.04`
-
----
-
-## ✨ 贡献贪吃蛇
-
-![GitHub 贡献网格贪吃蛇动画](https://github.com/qgeng1465/qgeng1465/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
