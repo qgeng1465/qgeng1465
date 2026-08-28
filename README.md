@@ -8,13 +8,22 @@
 > **Medical-Engineering Interdisciplinary · AI4S · Organoids-on-Chip (Microfluidics)**
 > <sub>医工交叉 · AI4S · 类器官芯片（微流控）</sub>
 
-**🌏 [中文版 Chinese Version](#中文版chinese-version) | 🇺🇸 [English Version](#english-version)**
-
 </div>
 
 ---
 
-<a name="english-version"></a>
+<style>
+/* Auto-detect browser language and show appropriate version */
+.english-content { display: block; }
+.chinese-content { display: none; }
+html[lang="zh"] .english-content { display: none; }
+html[lang="zh"] .chinese-content { display: block; }
+html[lang="zh-CN"] .english-content { display: none; }
+html[lang="zh-CN"] .chinese-content { display: block; }
+</style>
+
+<!-- English Content -->
+<div class="english-content">
 
 ## English Version
 
@@ -68,9 +77,10 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 <p align="center"><sub>MIT Licensed · For educational research and personal use only</sub></p>
 
----
+</div>
 
-<a name="中文版chinese-version"></a>
+<!-- Chinese Content -->
+<div class="chinese-content">
 
 ## 中文版 Chinese Version
 
@@ -123,3 +133,6 @@ If these tools saved you time, a coffee is always appreciated ☕
 <p align="center"><sub>欢迎科研合作与实习机会</sub></p>
 
 <p align="center"><sub>MIT 许可 · 尊重版权 · 仅供学习研究与个人合理使用</sub></p>
+
+</div>
+
