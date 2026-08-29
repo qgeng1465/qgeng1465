@@ -37,7 +37,7 @@
 
 **⭐ Featured**
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — bioinformatics MCP server · **38 databases · 73 tools** (intelligent agent + honest agent)
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — bioinformatics MCP server · **38 databases · 73 tools** · **`pip install biomcp-server`** (intelligent agent + honest agent)
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — flight logbook on a WebGL 3D globe, 100% local & private
 - 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers (hallucination rate 0.000)
 
@@ -78,7 +78,7 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 **⭐ 重点推荐**
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** — 生物信息学 MCP 服务器 · **38 个数据库 · 73 个工具**（智能 agent + 诚实 agent）
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — 生物信息学 MCP 服务器 · **38 个数据库 · 73 个工具** · **`pip install biomcp-server`**（智能 agent + 诚实 agent）
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — 飞行日志 3D 地球可视化，WebGL 渲染，纯本地隐私友好
 - 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — 可验证湿实验 AI 副驾 · 验证论文协议计算并拒绝虚构数字，幻觉率 0.000
 
@@ -94,7 +94,7 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 ---
 
-<h3 align="center">💻 Languages on my GitHub · 仓库语言统计</h3>
+<h3 align="center">💻 Languages · 🛠️ Skills · 技能</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-85.0%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 85%">
@@ -102,35 +102,18 @@ If these tools saved you time, a coffee is always appreciated ☕
   <img src="https://img.shields.io/badge/HTML-4.0%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 4%">
   <img src="https://img.shields.io/badge/JavaScript-3.0%25-F1E05A?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript 3%">
   <img src="https://img.shields.io/badge/Shell-2.2%25-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell 2.2%">
-</p>
-
----
-
-<h3 align="center">🛠️ Skills · 技能</h3>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Total%20Stars-46-orange?style=flat-square&logo=github&logoColor=white" alt="Total Stars">
   <img src="https://img.shields.io/badge/Total%20Forks-5-blue?style=flat-square&logo=github&logoColor=white" alt="Total Forks">
-</p>
-
-<p align="center"><b>AI & Data</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/LLM%20Agents-6D5AE8?style=flat-square" alt="LLM Agents">
   <img src="https://img.shields.io/badge/MCP%20Server-7c5cff?style=flat-square" alt="MCP Server">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-<p align="center"><b>Bioinformatics</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/NCBI-00778B?style=flat-square" alt="NCBI">
   <img src="https://img.shields.io/badge/BLAST-0A66C2?style=flat-square" alt="BLAST">
   <img src="https://img.shields.io/badge/PDB-0A9DCB?style=flat-square" alt="PDB">
   <img src="https://img.shields.io/badge/UniProt-E535AB?style=flat-square&logo=uniprot&logoColor=white" alt="UniProt">
   <img src="https://img.shields.io/badge/GWAS-22C55E?style=flat-square" alt="GWAS">
-</p>
-<p align="center"><b>Web & Tools</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
