@@ -39,7 +39,9 @@
 
 - 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — bioinformatics MCP server · **38 databases · 73 tools** · **`pip install biomcp-server`** (intelligent agent + honest agent)
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — flight logbook on a WebGL 3D globe, 100% local & private
-- 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers (hallucination rate 0.000)
+- 🎬 **[LiveRecorder](https://github.com/qgeng1465/LiveRecorder)** — 24/7 FFmpeg recorder for 50+ platforms incl. WeChat Channels
+- 🤖 **[AI4Bio Agents](https://github.com/qgeng1465/ai4bio-agents)** — 10 ready-to-use bioinformatics AI agents (literature / sequence / structure / BLAST)
+- 🧪 **Labwright** `🔒 private · opening soon` — verifiable wet-lab AI copilot · validates protocol calculations & catches fabricated numbers (hallucination rate 0.000)
 
 ### Support
 
@@ -80,7 +82,9 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 - 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — 生物信息学 MCP 服务器 · **38 个数据库 · 73 个工具** · **`pip install biomcp-server`**（智能 agent + 诚实 agent）
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — 飞行日志 3D 地球可视化，WebGL 渲染，纯本地隐私友好
-- 🧪 **[Labwright](https://github.com/qgeng1465/labwright)** — 可验证湿实验 AI 副驾 · 验证论文协议计算并拒绝虚构数字，幻觉率 0.000
+- 🎬 **[LiveRecorder](https://github.com/qgeng1465/LiveRecorder)** — FFmpeg 24/7 直播录制，50+ 平台，支持微信视频号
+- 🤖 **[AI4Bio Agents](https://github.com/qgeng1465/ai4bio-agents)** — 10 个即装即用的生信 AI 智能体（文献 / 序列 / 结构 / BLAST）
+- 🧪 **Labwright** `🔒 私有 · 即将开源` — 可验证湿实验 AI 副驾 · 验证论文协议计算并拒绝虚构数字，幻觉率 0.000
 
 ### 赞赏支持
 
@@ -94,6 +98,55 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 ---
 
+<details open>
+<summary><h3 align="center">📚 Project Catalog · 全部开源项目</h3></summary>
+
+**🧬 AI4Science & Bioinformatics · AI4科学与生物信息**
+
+| Project | What it does · 用途 | ★ |
+|---|---|---|
+| [bio-mcp](https://github.com/qgeng1465/bio-mcp) | Bioinformatics MCP server · 38 databases / 73 tools · `pip install biomcp-server` · 生信 MCP 服务器 | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square&label=%E2%98%85) |
+| [ai4bio-agents](https://github.com/qgeng1465/ai4bio-agents) | 10 ready-to-use bioinformatics AI agents · 生信智能体合集 | ![](https://img.shields.io/github/stars/qgeng1465/ai4bio-agents?style=flat-square&label=%E2%98%85) |
+| [ai4research-agents](https://github.com/qgeng1465/ai4research-agents) | 10 agents for daily research life (writing / grant / defense / stats) · 科研日常智能体 | ![](https://img.shields.io/github/stars/qgeng1465/ai4research-agents?style=flat-square&label=%E2%98%85) |
+| [ai4chem-agents](https://github.com/qgeng1465/ai4chem-agents) | 10 chemistry AI agents (synthesis / spectra / docking) · 化学智能体合集 | ![](https://img.shields.io/github/stars/qgeng1465/ai4chem-agents?style=flat-square&label=%E2%98%85) |
+| [transdann-surv](https://github.com/qgeng1465/transdann-surv) | When GRL/DANN fails in cross-population survival prediction · 域对抗训练失效机理 | ![](https://img.shields.io/github/stars/qgeng1465/transdann-surv?style=flat-square&label=%E2%98%85) |
+| [dual-channel-mr-atlas](https://github.com/qgeng1465/dual-channel-mr-atlas) | Transcriptome-wide cis-MR × colocalization atlas for T2D & CAD · 全转录组孟德尔随机化图谱 | ![](https://img.shields.io/github/stars/qgeng1465/dual-channel-mr-atlas?style=flat-square&label=%E2%98%85) |
+| [pilotdeck-hippo](https://github.com/qgeng1465/pilotdeck-hippo) | Scored verbatim-retention layer for LLM context compaction · 上下文压缩的逐字保留层 | ![](https://img.shields.io/github/stars/qgeng1465/pilotdeck-hippo?style=flat-square&label=%E2%98%85) |
+
+**🤖 LLM & Productivity · 效率工具**
+
+| Project | What it does · 用途 | ★ |
+|---|---|---|
+| [pptagent](https://github.com/qgeng1465/pptagent) | Text → native editable PPTX for academic talks · 学术 PPT 生成管线 | ![](https://img.shields.io/github/stars/qgeng1465/pptagent?style=flat-square&label=%E2%98%85) |
+| [astock-conservative-agent](https://github.com/qgeng1465/astock-conservative-agent) | Conservative A-share quant system with strict hold-out lessons · A股保守量化复盘 | ![](https://img.shields.io/github/stars/qgeng1465/astock-conservative-agent?style=flat-square&label=%E2%98%85) |
+
+**🌐 Browser Tools — 100% local & private · 纯浏览器本地工具**
+
+| Project | What it does · 用途 | ★ |
+|---|---|---|
+| [flight-trajectory-visualizer](https://github.com/qgeng1465/flight-trajectory-visualizer) | Flight logbook on an interactive WebGL 3D globe · 3D 地球飞行足迹 | ![](https://img.shields.io/github/stars/qgeng1465/flight-trajectory-visualizer?style=flat-square&label=%E2%98%85) |
+| [audio-toolbox](https://github.com/qgeng1465/audio-toolbox) | Video→audio, convert, trim, vocal removal · 音频工具箱 | ![](https://img.shields.io/github/stars/qgeng1465/audio-toolbox?style=flat-square&label=%E2%98%85) |
+| [ts-to-mp4-converter](https://github.com/qgeng1465/ts-to-mp4-converter) | Lossless TS⇌MP4 remux (ffmpeg.wasm) · TS⇌MP4 无损转换 | ![](https://img.shields.io/github/stars/qgeng1465/ts-to-mp4-converter?style=flat-square&label=%E2%98%85) |
+| [mp4-converter](https://github.com/qgeng1465/mp4-converter) | Universal video⇌MP4 converter · 通用视频转 MP4 | ![](https://img.shields.io/github/stars/qgeng1465/mp4-converter?style=flat-square&label=%E2%98%85) |
+| [emoji-maker](https://github.com/qgeng1465/emoji-maker) | Multi-frame images → WeChat-compliant GIF · 表情包制作 | ![](https://img.shields.io/github/stars/qgeng1465/emoji-maker?style=flat-square&label=%E2%98%85) |
+
+**📥 Media Downloaders · 媒体下载**
+
+| Project | What it does · 用途 | ★ |
+|---|---|---|
+| [LiveRecorder](https://github.com/qgeng1465/LiveRecorder) | 24/7 live recorder for 50+ platforms incl. WeChat Channels · 直播录制 | ![](https://img.shields.io/github/stars/qgeng1465/LiveRecorder?style=flat-square&label=%E2%98%85) |
+| [douyin-watermark-free-downloader](https://github.com/qgeng1465/douyin-watermark-free-downloader) | Douyin watermark-free video & image downloader · 抖音无水印下载 | ![](https://img.shields.io/github/stars/qgeng1465/douyin-watermark-free-downloader?style=flat-square&label=%E2%98%85) |
+| [bilibili-video-downloader](https://github.com/qgeng1465/bilibili-video-downloader) | Bilibili downloader: multi-part / subtitles / danmaku · B站下载器 | ![](https://img.shields.io/github/stars/qgeng1465/bilibili-video-downloader?style=flat-square&label=%E2%98%85) |
+| [xiaohongshu-downloader](https://github.com/qgeng1465/xiaohongshu-downloader) | Xiaohongshu (RedNote) image/video downloader · 小红书下载器 | ![](https://img.shields.io/github/stars/qgeng1465/xiaohongshu-downloader?style=flat-square&label=%E2%98%85) |
+| [youtube-downloader](https://github.com/qgeng1465/youtube-downloader) | YouTube downloader wrapping yt-dlp, proxy-aware · YouTube 下载器 | ![](https://img.shields.io/github/stars/qgeng1465/youtube-downloader?style=flat-square&label=%E2%98%85) |
+| [wechat-article-exporter](https://github.com/qgeng1465/wechat-article-exporter) | WeChat article exporter to Markdown/HTML · 公众号文章导出 | ![](https://img.shields.io/github/stars/qgeng1465/wechat-article-exporter?style=flat-square&label=%E2%98%85) |
+
+<sub>🔒 *Labwright* (verifiable wet-lab AI copilot) is private — opening soon · 私有仓库，即将开源</sub>
+
+</details>
+
+---
+
 <h3 align="center">💻 Languages · 🛠️ Skills · 技能</h3>
 
 <p align="center">
@@ -102,8 +155,8 @@ If these tools saved you time, a coffee is always appreciated ☕
   <img src="https://img.shields.io/badge/HTML-4.0%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 4%">
   <img src="https://img.shields.io/badge/JavaScript-3.0%25-F1E05A?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript 3%">
   <img src="https://img.shields.io/badge/Shell-2.2%25-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell 2.2%">
-  <img src="https://img.shields.io/badge/Total%20Stars-57-orange?style=flat-square&logo=github&logoColor=white" alt="Total Stars">
-  <img src="https://img.shields.io/badge/Total%20Forks-9-blue?style=flat-square&logo=github&logoColor=white" alt="Total Forks">
+  <img src="https://img.shields.io/github/stars/qgeng1465?affiliations=direct&style=flat-square&logo=github&logoColor=white&label=Stars" alt="Total Stars">
+  <img src="https://img.shields.io/github/followers/qgeng1465?style=flat-square&logo=github&logoColor=white&label=Followers" alt="Followers">
   <img src="https://img.shields.io/badge/LLM%20Agents-6D5AE8?style=flat-square" alt="LLM Agents">
   <img src="https://img.shields.io/badge/MCP%20Server-7c5cff?style=flat-square" alt="MCP Server">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
