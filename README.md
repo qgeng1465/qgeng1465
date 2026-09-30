@@ -37,7 +37,7 @@
 
 **⭐ Featured**
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — bioinformatics MCP server · **38 databases · 73 tools** · **`pip install biomcp-server`** (intelligent agent + honest agent)
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — bioinformatics MCP server · **43 databases · 83 tools** · **`pip install biomcp-server`** (intelligent agent + honest agent)
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — flight logbook on a WebGL 3D globe, 100% local & private
 - 🎬 **[LiveRecorder](https://github.com/qgeng1465/LiveRecorder)** — 24/7 FFmpeg recorder for 50+ platforms incl. WeChat Channels
 - 🤖 **[AI4Bio Agents](https://github.com/qgeng1465/ai4bio-agents)** — 10 ready-to-use bioinformatics AI agents (literature / sequence / structure / BLAST)
@@ -80,7 +80,7 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 **⭐ 重点推荐**
 
-- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — 生物信息学 MCP 服务器 · **38 个数据库 · 73 个工具** · **`pip install biomcp-server`**（智能 agent + 诚实 agent）
+- 🧬 **[BioMCP](https://github.com/qgeng1465/bio-mcp)** [![PyPI](https://img.shields.io/pypi/v/biomcp-server?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/biomcp-server/) — 生物信息学 MCP 服务器 · **43 个数据库 · 83 个工具** · **`pip install biomcp-server`**（智能 agent + 诚实 agent）
 - ✈️ **[Flight Trajectory 3D](https://github.com/qgeng1465/flight-trajectory-visualizer)** — 飞行日志 3D 地球可视化，WebGL 渲染，纯本地隐私友好
 - 🎬 **[LiveRecorder](https://github.com/qgeng1465/LiveRecorder)** — FFmpeg 24/7 直播录制，50+ 平台，支持微信视频号
 - 🤖 **[AI4Bio Agents](https://github.com/qgeng1465/ai4bio-agents)** — 10 个即装即用的生信 AI 智能体（文献 / 序列 / 结构 / BLAST）
@@ -105,7 +105,7 @@ If these tools saved you time, a coffee is always appreciated ☕
 
 | Project | What it does · 用途 | ★ |
 |---|---|---|
-| [bio-mcp](https://github.com/qgeng1465/bio-mcp) | Bioinformatics MCP server · 38 databases / 73 tools · `pip install biomcp-server` · 生信 MCP 服务器 | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square&label=%E2%98%85) |
+| [bio-mcp](https://github.com/qgeng1465/bio-mcp) | Bioinformatics MCP server · 43 databases / 83 tools · `pip install biomcp-server` · 生信 MCP 服务器 | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square&label=%E2%98%85) |
 | [ai4bio-agents](https://github.com/qgeng1465/ai4bio-agents) | 10 ready-to-use bioinformatics AI agents · 生信智能体合集 | ![](https://img.shields.io/github/stars/qgeng1465/ai4bio-agents?style=flat-square&label=%E2%98%85) |
 | [ai4research-agents](https://github.com/qgeng1465/ai4research-agents) | 10 agents for daily research life (writing / grant / defense / stats) · 科研日常智能体 | ![](https://img.shields.io/github/stars/qgeng1465/ai4research-agents?style=flat-square&label=%E2%98%85) |
 | [ai4chem-agents](https://github.com/qgeng1465/ai4chem-agents) | 10 chemistry AI agents (synthesis / spectra / docking) · 化学智能体合集 | ![](https://img.shields.io/github/stars/qgeng1465/ai4chem-agents?style=flat-square&label=%E2%98%85) |
